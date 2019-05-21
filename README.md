@@ -17,15 +17,15 @@ Colored Resume
 ![Screenshot](setting_second_page.png)
 
 
+<br /> 
+<br /> 
+## Result
 
-
-**#Result**
-
-**#First Page Of Resume**
+**First Page Of Resume**
 ![Screenshot](rfirst_page.png)
 
 
-**#Second Page Of Resume**
+**Second Page Of Resume**
 ![Screenshot](rsecond_page.png)
 
 
