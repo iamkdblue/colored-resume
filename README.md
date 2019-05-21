@@ -31,5 +31,5 @@ Colored Resume
 
 
 
-**Sharing Is Caring**
+# Sharing Is Caring
 
