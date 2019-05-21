@@ -11,8 +11,8 @@ Colored Resume
 
 
 **#First Page Of Resume**
-![Screenshot](rfirst_page.jpg)
+![Screenshot](rfirst_page.png)
 
 **#Second Page Of Resume**
-![Screenshot](rsecond_page.jpg)
+![Screenshot](rsecond_page.png)
 
