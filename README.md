@@ -19,7 +19,8 @@ Colored Resume
 
 <br /> 
 <br /> 
-## Result
+
+# Result
 
 **First Page Of Resume**
 ![Screenshot](rfirst_page.png)
