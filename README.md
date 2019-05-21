@@ -17,6 +17,8 @@ Colored Resume
 ![Screenshot](setting_second_page.png)
 
 
+**#Result**
+
 **#First Page Of Resume**
 ![Screenshot](rfirst_page.png)
 
