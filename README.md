@@ -8,10 +8,13 @@ Colored Resume
 4) same apply for secondpage.html
 5) now both resume pdf file is ready, lets combine online [Here](https://combinepdf.com/) , after combine download it :)
 
-**Setting pdf formate in crome**
-![Screenshot](setting_first_page.png)
-![Screenshot](setting_second_page.png)
+**Setting pdf format in crome**
 
+**First Page**
+![Screenshot](setting_first_page.png)
+
+**Second Page**
+![Screenshot](setting_second_page.png)
 
 
 **#First Page Of Resume**
